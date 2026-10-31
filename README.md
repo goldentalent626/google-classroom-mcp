@@ -1,11 +1,5 @@
 # Google Classroom MCP Server
 
-![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-18%2B-green?logo=node.js)
-![License](https://img.shields.io/badge/license-MIT-brightgreen)
-![MCP](https://img.shields.io/badge/MCP-compatible-purple)
-![Tools](https://img.shields.io/badge/tools-46-orange)
-
 A [Model Context Protocol](https://modelcontextprotocol.io) (MCP) server that gives AI agents full programmatic access to Google Classroom. Built to enable complex, multi-step automation workflows for educators: from bulk assignment creation and roster management to submission collection, grading, and Drive file delivery.
 
 ## Why This Exists
